@@ -1,0 +1,14 @@
+# IT-Forensik Python Module
+
+volatility3
+pytsk3
+python-magic
+yara-python
+pefile
+cryptography
+pyewf
+scapy
+pillow
+impacket
+binwalk
+exifread
