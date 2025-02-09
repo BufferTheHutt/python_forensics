@@ -57,24 +57,11 @@ Leverage these trusted Python modules to enhance your forensic workflow:
 - **🧠 Volatility:**  
   Memory and RAM forensics.
 
-All of these dependencies are listed in our [`requirements.txt`](requirements.txt) file.
+All of these dependencies are listed in our [`requirements.txt`](modules/requirements.txt) file.
 
 ---
 
 ## Installation
-
-### Using Conda (Recommended)
-
-This repository includes an `environment.yml` file that sets up a Conda virtual environment with all required packages.
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/python-forensics.git
-   cd python-forensics
-   conda env create -f environment.yml
-   conda activate it-forensics
-   ```
 
 Using pip
 If you prefer using pip, follow these steps:
